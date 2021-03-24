@@ -33,7 +33,7 @@ Missing data : In input, output relationships if some data are missing at some d
 
 In case of inbalanced data : If a group of data is less or more compared to the other group, undersampling or oversampling is done to make comparison reliable.
 
-Outliers : Outliers are determined with 2 different methods. In one of which  if the data is more than 3 sigmas away from the mean, it is considered as outlier and not included in the model training not to create bias.
+Outliers : Outliers are determined with 3 different methods. In one of which  if the data is more than 3 sigmas away from the mean, it is considered as outlier and not included in the model training not to create bias.
 
 Standardization/normalization : This allows the model converge to a better fit.
 
