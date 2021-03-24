@@ -23,7 +23,7 @@ The model is a kind of mathematical model which finds out the relationship betwe
 
 In simpler models approximately 70% of the data is set aside as training set and the rest as test set. The model learns the relationship with training set. Test set is a set which model has not encountered before. The test set is used to see if the model gives foreseen outcomes with this new dataset.
 
-On the otherhand the data is divided to training, validation and test sets in more complex models. Model is trained with train dataset and validation dataset is used to tune hyperparameters. In this approach data is divided in to 3 so that the training set is 70% of all data whereas validation set and test set is 20% each.
+On the otherhand the data is divided to training, validation and test sets in more complex models. Model is trained with train dataset and validation dataset is used to tune hyperparameters. In this approach data is divided in to 3 so that the training set is 60% of all data whereas validation set and test set is 20% each.
 
 4) What are the main preprocessing steps? Explain them in detail. Why we need to prepare our data?
 
